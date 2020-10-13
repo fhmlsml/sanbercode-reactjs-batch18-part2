@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-
+//lupa di save
 class Tugas11 extends Component {
   constructor(props) {
     super(props)
