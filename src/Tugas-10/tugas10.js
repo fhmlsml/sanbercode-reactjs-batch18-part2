@@ -1,4 +1,5 @@
 import React from 'react';
+import './tugas10.css';
 
 function Bodyy() {
   let dataHargaBuah = [
